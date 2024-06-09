@@ -5,3 +5,4 @@ new-featureブランチで変更
 no-fast-forwardブランチで変更
 mainブランチへ変更
 conflictブランチで変更
+リモートリポジトリでこのファイルを変更
