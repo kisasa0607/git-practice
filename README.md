@@ -6,4 +6,5 @@ no-fast-forwardブランチで変更
 mainブランチへ変更
 conflictブランチで変更
 リモートリポジトリでこのファイルを変更
+conflict-remoteで変更
 リモートリポジトリでこのファイルを変更（2回目）
