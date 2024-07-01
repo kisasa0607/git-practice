@@ -10,3 +10,4 @@ conflict-remoteで変更
 リモートリポジトリでこのファイルを変更（2回目）
 new-featureブランチで変更
 rebase-practiceブランチで変更
+mainブランチで変更（rebase-practice用）
