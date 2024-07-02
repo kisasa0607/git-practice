@@ -12,3 +12,4 @@ new-featureブランチで変更
 rebase-practiceブランチで変更
 rebase-practiceブランチで変更（2回目）
 stashの練習
+stashの練習(untrack用)
