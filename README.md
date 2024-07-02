@@ -11,3 +11,4 @@ conflict-remoteで変更
 new-featureブランチで変更
 rebase-practiceブランチで変更
 rebase-practiceブランチで変更（2回目）
+stashの練習
